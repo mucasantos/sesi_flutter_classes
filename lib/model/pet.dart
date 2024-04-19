@@ -8,6 +8,7 @@ class Pet {
     this.image,
     this.name,
   });
+
 }
 
 //Para criar uma lista de algum tipo dado,
